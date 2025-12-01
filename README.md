@@ -1,5 +1,6 @@
 # Wildlife Protection: Anti-Poaching Audio Detection System
-## An edge-deployed machine learning system that detects poaching-related sounds using audio classification.
+<p align="center"> ## An edge-deployed machine learning system that detects poaching-related sounds using audio classification. </p>
+
 
 Overview
 This project uses TinyML to identify potential poaching activity in real-time by classifying environmental sounds. Designed for deployment on low-power edge devices in remote wildlife areas where connectivity is limited.
