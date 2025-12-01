@@ -1,5 +1,5 @@
 # Wildlife Protection: Anti-Poaching Audio Detection System
-<p align="center"> An edge-deployed machine learning system that detects poaching-related sounds using audio classification. </p>
+<h2 align="center"> An edge-deployed machine learning system that detects poaching-related sounds using audio classification. </h2>
 
 
 Overview
