@@ -21,9 +21,9 @@ Sample Rate: 16,000 Hz
 Dataset: 160 samples (40 per class)
 
 Edge Impulse Project:
-
-https://www.canva.com/design/DAG6LgfcETI/LN0bIq9VcBk0MGgNhUMlFg/edit?utm_content=DAG6LgfcETI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
+Code: 
+Slides: https://www.canva.com/design/DAG6LgfcETI/LN0bIq9VcBk0MGgNhUMlFg/edit?utm_content=DAG6LgfcETI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Presentation: 
 
 Audio samples sourced from:
 Pixabay Sound Effects - Royalty-free sounds
