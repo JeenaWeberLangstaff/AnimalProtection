@@ -26,7 +26,7 @@ Dataset: 160 samples (40 per class)
 
 ### Edge Impulse Project:
 
-### Full Project: 
+#### Full Project: 
 
 
 #### Slides:
