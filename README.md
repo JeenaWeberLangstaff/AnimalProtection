@@ -26,9 +26,16 @@ Dataset: 160 samples (40 per class)
 
 ### Edge Impulse Project:
 
-Code: 
-Slides: https://www.canva.com/design/DAG6LgfcETI/LN0bIq9VcBk0MGgNhUMlFg/edit?utm_content=DAG6LgfcETI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-Presentation: 
+### Full Project: 
+
+
+#### Slides:
+
+https://www.canva.com/design/DAG6LgfcETI/LN0bIq9VcBk0MGgNhUMlFg/edit?utm_content=DAG6LgfcETI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+#### Presentation: 
+
+
 
 ### Audio samples sourced from:
 
