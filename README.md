@@ -42,6 +42,7 @@ https://www.canva.com/design/DAG6LgfcETI/LN0bIq9VcBk0MGgNhUMlFg/edit?utm_content
 Pixabay Sound Effects - Royalty-free sounds
 BBC Sound Effects - Broadcast-quality audio
 Freesound - Community audio library
+ GFX Sounds - Sound effects and Animal Sounds
 Quick Sounds - Sound effects library
 Free Animal Sounds - Wildlife audio
 Zapsplat - Sound effects
