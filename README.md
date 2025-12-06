@@ -49,6 +49,9 @@ Zapsplat - Sound effects
 SoundDino - Animal sounds
 ElevenLabs Sound Effects - AI-generated audio
 African wild dog vocalizations from MP3.pm
+EpicSoundEffects- Sound Effects
+GFXSounds- Sound Effects
+Distant gun shots with wind noise.wav by moosegravy -- https://freesound.org/s/435407/ 
 
 ### Deployment:
 
